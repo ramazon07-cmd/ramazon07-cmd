@@ -21,13 +21,13 @@
 
 ## 📈 GitHub Stats
 
-![Ramazon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RamazonDev&show_icons=true&theme=radical)
+![Ramazon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ramazon07_cmd&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RamazonDev&layout=compact)](https://github.com/RamazonDev)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramazon07_cmd&layout=compact)](https://github.com/RamazonDev)
 
 ---
 
 ## 📫 Contact Me
-- Telegram: [@ramazondev](https://t.me/ramazondev)
-- LinkedIn: [linkedin.com/in/ramazondev](#)
-- Email: example@gmail.com
+- Telegram: [@ramazonLider](https://t.me/ramazonLider)
+- Instagram: [instagram.com/in/ramazon08_cmd](#)
+- Email: b92874193@gmail.com
