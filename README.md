@@ -4,10 +4,10 @@
 ---
 
 ## 🚀 My Projects
+- 🧑‍💻 [Portfolio](https://ramazondev.netlify.app/) — Personal Website  
 - 🎓 [Gradive](https://gradive.vercel.app/) — Educational Platform  
 - 📝 [Musepad](https://musepad.onrender.com/) — Blog Application  
-- 📚 [CEFR Practice](https://cefr-practice.vercel.app/) — Language Learning  
-- 🧑‍💻 [Portfolio](https://ramazondev.netlify.app/) — Personal Website  
+- 📚 [CEFR Practice](https://cefr-practice.vercel.app/) — Speaking Practice  
 - 🔌 [Blog API](https://biapi.vercel.app/) — RESTful API with DRF  
 
 ---
