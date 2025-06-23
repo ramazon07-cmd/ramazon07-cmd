@@ -21,5 +21,5 @@
 
 ## 📫 Contact Me
 - Telegram: [@ramazonLider](https://t.me/ramazonLider)
-- Instagram: [instagram.com/in/ramazon08_cmd](#)
+- Instagram: [instagram.com/ramazon07_cmd](#)
 - Email: b92874193@gmail.com
