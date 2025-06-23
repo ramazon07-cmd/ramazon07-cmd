@@ -19,14 +19,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-![Ramazon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ramazon07-cmd&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramazon07-cmd&layout=compact)](https://github.com/RamazonDev)
-
----
-
 ## 📫 Contact Me
 - Telegram: [@ramazonLider](https://t.me/ramazonLider)
 - Instagram: [instagram.com/in/ramazon08_cmd](#)
