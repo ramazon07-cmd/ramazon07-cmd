@@ -8,7 +8,8 @@
 - 🎓 [Gradive](https://gradive.vercel.app/) — Educational Platform  
 - 📝 [Musepad](https://musepad.onrender.com/) — Blog Application  
 - 📚 [CEFR Practice](https://cefr-practice.vercel.app/) — Speaking Practice  
-- 🔌 [Blog API](https://biapi.vercel.app/) — RESTful API with DRF  
+- 🔌 [Blog API](https://biapi.vercel.app/) — RESTful API with DRF
+- 📄 [PDFyCelery](https://github.com/ramazon07-cmd/pdfycelery) — PDF generator with Django, Celery & Redis
 
 ---
 
