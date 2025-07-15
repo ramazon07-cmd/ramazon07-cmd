@@ -10,6 +10,7 @@
 - 📚 [CEFR Practice](https://cefr-practice.vercel.app/) — Speaking Practice  
 - 🔌 [Blog API](https://biapi.vercel.app/) — RESTful API with DRF
 - 📄 [PDFyCelery](https://github.com/ramazon07-cmd/pdfycelery) — PDF generator with Django, Celery & Redis
+- 🐳 [DockerProject](https://github.com/ramazon07-cmd/dockerproject) — Dockerized Django app using Docker & Compose for local development
 
 ---
 
