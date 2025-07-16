@@ -1,27 +1,61 @@
-<h1 align="center">👋 Hi, I'm Ramazon!</h1>
-<p align="center">💻 Full Stack Developer | 🚀 Building Django apps | 🇺🇿 Uzbekistan</p>
+<h1 align="center">👋 Hello, I'm Ramazon!</h1>
+<p align="center">🇺🇿 Backend Developer | 🧠 Lifelong Learner | 🚀 Building Scalable Django Applications</p>
 
 ---
 
-## 🚀 My Projects
-- 🧑‍💻 [Portfolio](https://ramazondev.netlify.app/) — Personal Website  
-- 🎓 [Gradive](https://gradive.vercel.app/) — Educational Platform  
-- 📝 [Musepad](https://musepad.onrender.com/) — Blog Application  
-- 📚 [CEFR Practice](https://cefr-practice.vercel.app/) — Speaking Practice  
-- 🔌 [Blog API](https://biapi.vercel.app/) — RESTful API with DRF
-- 📄 [PDFyCelery](https://github.com/ramazon07-cmd/pdfycelery) — PDF generator with Django, Celery & Redis
-- 🐳 [DockerProject](https://github.com/ramazon07-cmd/dockerproject) — Dockerized Django app using Docker & Compose for local development
+## 🚀 About Me
+
+🎯 I'm a self-taught **Backend Developer** based in Uzbekistan with a strong focus on **Django**, **REST APIs**, **asynchronous tasks**, and **DevOps tools**. I love solving real-world problems and building clean, secure, and scalable systems.
+
+I enjoy working on projects that involve:
+- API design & documentation
+- Background task processing with Celery
+- Authentication systems (JWT)
+- Dockerized development & deployment
+- CI/CD workflows with GitHub Actions
 
 ---
 
-## 🛠️ Tech Stack
-**Backend:** Django, Django REST Framework, PostgreSQL  
-**Frontend:** HTML, CSS, JavaScript  
-**DevOps:** Git, GitHub, Render, Vercel, Netlify  
+## 🛠 Tech Stack
+
+**Backend:** Django • Django REST Framework • PostgreSQL  
+**Async:** Celery • Redis  
+**DevOps:** Docker • Docker Compose • Nginx • Gunicorn • GitHub Actions  
+**Auth & Security:** JWT • CORS • Permissions • HSTS  
+**Docs & Testing:** Swagger (drf-yasg) • ReDoc • Pytest • Flake8 • Coverage  
 
 ---
 
-## 📫 Contact Me
-- Telegram: [@ramazonLider](https://t.me/ramazonLider)
-- Instagram: [instagram.com/ramazon07_cmd](https://instagram.com/ramazon07_cmd)
-- Email: b92874193@gmail.com
+## 📂 Featured Projects
+
+### 📚 EduBox
+**Modern LMS platform** with user enrollment, JWT authentication, and asynchronous email notifications.  
+Tech: `Django`, `DRF`, `Celery`, `JWT`, `Docker`, `Redis`, `Swagger`  
+→ [GitHub Repo](https://github.com/ramazon07-cmd/edubox)
+
+---
+
+### 📧 NotiMailer
+**Email notification system** that sends scheduled and birthday reminders with Celery.  
+Tech: `Django`, `DRF`, `Celery`, `Redis`, `PostgreSQL`, `Swagger`  
+→ [GitHub Repo](https://github.com/ramazon07-cmd/notimailer)
+
+---
+
+### 💳 Payment Project
+**Mock Click & Payme API** built for testing and development of payment integrations.  
+Tech: `Django`, `DRF`, `PostgreSQL`, `Docker`, `Swagger`, `Gunicorn`  
+→ [GitHub Repo](https://github.com/ramazon07-cmd/payment)
+
+---
+
+## 📫 Let's Connect!
+
+- 📨 Telegram: [@ramazonLider](https://t.me/ramazonLider)  
+- 📷 Instagram: [instagram.com/ramazon07_cmd](https://instagram.com/ramazon07_cmd)  
+- 📧 Email: b92874193@gmail.com  
+
+---
+
+> 💡 *Always learning, always building — one commit at a time.*
+
