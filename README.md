@@ -19,7 +19,7 @@ I enjoy working on projects that involve:
 ## 🛠 Tech Stack
 
 **Backend:** Django • Django REST Framework • PostgreSQL  
-**Async:** Celery • Redis  
+**Async:** Celery • Redis • RabbitMQ  
 **DevOps:** Docker • Docker Compose • Nginx • Gunicorn • GitHub Actions  
 **Auth & Security:** JWT • CORS • Permissions • HSTS  
 **Docs & Testing:** Swagger (drf-yasg) • ReDoc • Pytest • Flake8 • Coverage  
@@ -46,6 +46,13 @@ Tech: `Django`, `DRF`, `Celery`, `Redis`, `PostgreSQL`, `Swagger`
 **Mock Click & Payme API** built for testing and development of payment integrations.  
 Tech: `Django`, `DRF`, `PostgreSQL`, `Docker`, `Swagger`, `Gunicorn`  
 → [GitHub Repo](https://github.com/ramazon07-cmd/payment)
+
+---
+
+### 💳 Rabbix Project
+**Asynchronous video processing system** using Celery, RabbitMQ, and Redis with email notifications and real-time monitoring via Flower.  
+Tech: `Django`, `DRF`, `Celery`, `RabbitMQ`, `Redis`, `Docker`, `Flower`, `Swagger`  
+→ [GitHub Repo](https://github.com/ramazon07-cmd/rabbix)
 
 ---
 
