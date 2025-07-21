@@ -49,7 +49,7 @@ Tech: `Django`, `DRF`, `PostgreSQL`, `Docker`, `Swagger`, `Gunicorn`
 
 ---
 
-### 💳 Rabbix Project
+### 📼 Rabbix Project
 **Asynchronous video processing system** using Celery, RabbitMQ, and Redis with email notifications and real-time monitoring via Flower.  
 Tech: `Django`, `DRF`, `Celery`, `RabbitMQ`, `Redis`, `Docker`, `Flower`, `Swagger`  
 → [GitHub Repo](https://github.com/ramazon07-cmd/rabbix)
